@@ -152,6 +152,21 @@ i.service-icon:hover {
   font-size: 68px;
 }
 
+/* Button Mod */
+
+.btn-b-menu {
+  background: 0;
+  border: 0;
+  color: #fff;
+}
+
+.btn-b-menu:hover {
+  background: 0;
+  border: 0;
+  color: #ddd;
+  transition: color .25s;
+}
+
 /* Callout */
 
 .callout {
